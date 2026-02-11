@@ -150,5 +150,5 @@ https://final-year-project-gqehjjh5ful6kpuqzcbdah.streamlit.app/
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
 # Contact
-If you have any questions or suggestions, feel free to contact me at bandarumanoj5051@gmail.com
+If you have any questions or suggestions, feel free to contact me at prassumd.2004@gmail.com
 # Final-Year-projettt
